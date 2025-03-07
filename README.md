@@ -1,10 +1,5 @@
 # FILE-INTEGRITY-CHECKER
-CODTECH_ADVANCE_TASK_1 
-
-@@ -1,25 +1,25 @@
 # CODETECH_ADVANCE_TASK_1
-# CODTECH_ADVANCE_TASK_1
-# File Integrity Checker
 # Personal Details
 - Name : Pathakoti saiteja 
 - Company : CODTECH IT SOLUTIONS PVT.LTD
